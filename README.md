@@ -21,29 +21,29 @@ An interactive educational application that teaches children about AI and emotio
 ## 🖼️ Screenshots
 
 ### Login Screen
-![Login Screen](![image](https://github.com/user-attachments/assets/8cbaa1e7-c970-4186-a801-e2e85ab0dc66)
-)
+![image](https://github.com/user-attachments/assets/8cbaa1e7-c970-4186-a801-e2e85ab0dc66)
+
 
 ### Instructions Page
-![Instructions Page](![image](https://github.com/user-attachments/assets/8e7c2fac-5f7d-4d7a-8c73-74f276c9bd7c)
-)
+![image](https://github.com/user-attachments/assets/8e7c2fac-5f7d-4d7a-8c73-74f276c9bd7c)
+
 
 ### Main Application
-![Main Application](![image](https://github.com/user-attachments/assets/4b0c2615-a3bf-420a-9ab5-9b0a7d692933)
-)
+![image](https://github.com/user-attachments/assets/4b0c2615-a3bf-420a-9ab5-9b0a7d692933)
+
 ![image](https://github.com/user-attachments/assets/6145995d-eaae-46a5-9bfe-9ffe7d004ff9)
 
 ### AI Emotion Detection
-![Emotion Detection](![image](https://github.com/user-attachments/assets/a79ced3b-bc17-458e-9349-e5c44203e16a)
-)
+![image](https://github.com/user-attachments/assets/a79ced3b-bc17-458e-9349-e5c44203e16a)
+
 ![image](https://github.com/user-attachments/assets/59e6a742-68c3-4a88-8704-e1928b1aa3c2)
 
 ### AI Training Interface
-![Training Interface](![image](https://github.com/user-attachments/assets/7de6be6b-3afe-4e85-b840-0f0d7c758a0e)
-)
+![image](https://github.com/user-attachments/assets/7de6be6b-3afe-4e85-b840-0f0d7c758a0e)
+
 
 ### Completion Certificate
-![Certificate](![image](https://github.com/user-attachments/assets/c5ccc598-aed1-44c8-a6b0-9a65da03cd24)
+![image](https://github.com/user-attachments/assets/c5ccc598-aed1-44c8-a6b0-9a65da03cd24)
 
 
 ## 🔧 Technology Stack
