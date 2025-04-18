@@ -2,8 +2,8 @@
 
 An interactive educational application that teaches children about AI and emotion recognition through a colorful, engaging interface.
 
-![Main Application Screenshot](![image](https://github.com/user-attachments/assets/963f98cc-a229-4bdd-9e42-9c71df7d3cd8)
-)
+![image](https://github.com/user-attachments/assets/963f98cc-a229-4bdd-9e42-9c71df7d3cd8)
+
 
 ## ✨ Features
 
